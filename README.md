@@ -1,6 +1,6 @@
 The aim of this project is 
 
-* Using PANDAS, NUMPY... và SUPRISE to create and filter information according to Collaborative Filtering Techniques.
+* Using PANDAS, NUMPY... and SUPRISE to create and filter information according to Collaborative Filtering Techniques.
 
 * Leveraging built-in machine learning models such as: SVD - Singular Value Decomposition, SVDpp to make recommendation on movies to customers based on their historical data rating.
 
