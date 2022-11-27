@@ -1,4 +1,4 @@
-The aim of this project is 
+The aim of this project is to use MovieLens 1M data retrieved from Kaggle for purposes of 
 
 * Using PANDAS, NUMPY... and SUPRISE to create and filter information according to Collaborative Filtering Techniques.
 
